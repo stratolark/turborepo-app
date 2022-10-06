@@ -6,7 +6,7 @@
     "name": "Luis Ramírez",
     "url": "https://stratolark.dev"
   },
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "workspaces": [
     "apps/*",
@@ -20,7 +20,6 @@
     "lint": "turbo run lint",
     "test": "turbo run test"
   },
-  "dependencies": {},
   "devDependencies": {
     "eslint-config-custom": "*",
     "prettier": "latest",
