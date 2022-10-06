@@ -1,0 +1,9 @@
+/* 
+disable base to reduce the specitifity from ui/src,
+leaving the apps/* to determine most of the styles.
+
+@tailwind base;
+
+*/
+@tailwind components;
+@tailwind utilities;
